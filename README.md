@@ -18,3 +18,15 @@
 刑法第286条之一     拒不履行信息网络安全管理义务罪  <br/>
 刑法第287条之一     非法利用信息网络罪  <br/>
 刑法第287条之二     帮助信息网络罪犯罪活动罪  <br/>
+
+#about American 
+FISMA<br/>
+NIST<br/>
+DHS<br/>
+Sarbanes-Oxley Act 404<br/>
+COPPA<br/>
+APRA<br/>
+HIPAA<br/>
+VISA<br/>
+##cloud<br/>
+ Key Cloud Service Provider (CSP) Documents https://www.fedramp.gov/resources/documents-2016/<br/>
